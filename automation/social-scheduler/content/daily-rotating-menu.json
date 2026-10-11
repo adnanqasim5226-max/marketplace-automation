@@ -1,0 +1,156 @@
+{
+  "restaurant": "Zaiqa Lounge & Grill",
+  "website": "https://zaiqa-lounge-restaurant.vercel.app",
+  "phone": "03072820877",
+  "address": "Gulistan-e-Johar, Block-9, Pehlwan Goth, Karachi",
+  "schedulePolicy": "2 Posts Per Day (Lunch 12:00 PM & Dinner 7:30 PM PKT)",
+  "weeklyPlan": [
+    {
+      "day": "Monday",
+      "lunch": {
+        "time": "12:00 PKT",
+        "dish": "Royal Dum Biryani",
+        "type": "photo",
+        "target": ["instagram"],
+        "headline": "Start Your Week with Karachi's Most Fragrant Dum Biryani! 🍚",
+        "deal": "Rs. 650 with Free Fresh Raita",
+        "caption": "Monday blues? Let the royal aroma of slow-cooked saffron basmati rice and tender spiced chicken fix your mood! Cooked on authentic charcoal dum for 6 hours.\n\n📍 Zaiqa Lounge & Grill, Gulistan-e-Johar, Karachi\n📱 Order Online: https://zaiqa-lounge-restaurant.vercel.app\n📞 Fast Delivery: 03072820877"
+      },
+      "dinner": {
+        "time": "19:30 PKT",
+        "dish": "Shinwari Mutton Karahi",
+        "type": "reel",
+        "target": ["instagram", "tiktok"],
+        "headline": "Sizzling Fresh Shinwari Mutton Karahi — Straight from the Wok! 🔥",
+        "deal": "Rs. 1,850 (Pure Desi Ghee / Makhan)",
+        "caption": "Listen to that sizzle! 🤤 Fresh cuts of mutton simmered in iron woks with ripe tomatoes, ginger juliennes, and cracked black pepper. No artificial spices, just authentic Peshawar taste.\n\n📍 Zaiqa Lounge & Grill, Karachi\n🛵 Order Now: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      }
+    },
+    {
+      "day": "Tuesday",
+      "lunch": {
+        "time": "12:00 PKT",
+        "dish": "Cheesy Gourmet Smash Burger",
+        "type": "photo",
+        "target": ["instagram"],
+        "headline": "Lunchtime Craving: Double Prime Beef Smash Burger! 🍔",
+        "deal": "Rs. 890 with Crispy Fries",
+        "caption": "Double smashed prime patties with crispy lace edges, smothered in melted cheddar and secret smoky sauce on warm toasted brioche.\n\n📍 Zaiqa Lounge & Grill\n📱 Order Online: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      },
+      "dinner": {
+        "time": "19:30 PKT",
+        "dish": "Reshmi Malai Boti Platter",
+        "type": "reel",
+        "target": ["instagram", "tiktok"],
+        "headline": "Melt-in-Mouth Charcoal Reshmi Malai Boti! ✨",
+        "deal": "Rs. 850 (Chef's Special)",
+        "caption": "Tender boneless chicken marinated in pure heavy cream, green coriander, and subtle aromatic spices. Charred to smoky perfection over glowing coals.\n\n📍 Zaiqa Lounge & Grill\n🛵 Delivery: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      }
+    },
+    {
+      "day": "Wednesday",
+      "lunch": {
+        "time": "12:00 PKT",
+        "dish": "Creamy Chicken Alfredo Pasta",
+        "type": "photo",
+        "target": ["instagram"],
+        "headline": "Midweek Comfort: Velvety Chicken Alfredo Fettuccine! 🍝",
+        "deal": "Rs. 990 with Garlic Bread",
+        "caption": "Rich parmesan garlic cream tossed with al dente fettuccine and topped with tender herb-grilled chicken breast slices.\n\n📍 Zaiqa Lounge & Grill\n📱 Order Online: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      },
+      "dinner": {
+        "time": "19:30 PKT",
+        "dish": "Grilled Seekh Kababs Sizzler",
+        "type": "reel",
+        "target": ["instagram", "tiktok"],
+        "headline": "Flame-Kissed Juicy Seekh Kababs on Smoking Sizzler Plate! 🍢",
+        "deal": "Rs. 750 (4 Jumbo Skewers)",
+        "caption": "Juicy minced beef skewers infused with green herbs, roasted cumin, and signature spices. Served smoking hot with parathas and mint chutney.\n\n📍 Zaiqa Lounge & Grill\n🛵 Order Now: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      }
+    },
+    {
+      "day": "Thursday",
+      "lunch": {
+        "time": "12:00 PKT",
+        "dish": "Royal Dum Biryani Double Treat",
+        "type": "photo",
+        "target": ["instagram"],
+        "headline": "Thursday Energy: Authentic Saffron Chicken Dum Biryani! 👑",
+        "deal": "Rs. 650 with Free Chilled Mint Lemonade on orders above Rs. 1500",
+        "caption": "Long grain sella basmati with tender spiced chicken pieces and fragrant saffron. The ultimate comfort meal before the weekend arrives!\n\n📍 Zaiqa Lounge & Grill\n📱 Order Online: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      },
+      "dinner": {
+        "time": "19:30 PKT",
+        "dish": "Chicken Makhni Handi + Roghani Naan",
+        "type": "reel",
+        "target": ["instagram", "tiktok"],
+        "headline": "Silky Butter Makhni Handi Simmering in Clay Pot! 🍲",
+        "deal": "Rs. 1,450 (Serves 2-3)",
+        "caption": "Boneless chicken simmered in rich velvety tomato-cashew butter gravy inside traditional clay handi. Best enjoyed with piping hot Roghani naans!\n\n📍 Zaiqa Lounge & Grill\n🛵 Order Now: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      }
+    },
+    {
+      "day": "Friday",
+      "lunch": {
+        "time": "12:00 PKT",
+        "dish": "Juma Mubarak Special: Royal Biryani & Cooler",
+        "type": "photo",
+        "target": ["instagram"],
+        "headline": "Juma Mubarak! Celebrate with Royal Dum Biryani & Chilled Mint Lemonade 🕌",
+        "deal": "Special Friday Blessing Combo: Rs. 950",
+        "caption": "Juma Mubarak to all food lovers! Make this blessed day special with Karachi's favorite Royal Dum Biryani and refreshing Mint Cooler.\n\n📍 Zaiqa Lounge & Grill\n📱 Order Online: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      },
+      "dinner": {
+        "time": "19:30 PKT",
+        "dish": "Grand BBQ & Shinwari Family Feast",
+        "type": "reel",
+        "target": ["instagram", "tiktok"],
+        "headline": "Friday Night Family Platter: BBQ, Karahi & Naan! 🎉",
+        "deal": "Grand Platter Rs. 3,200 (Serves 4-5)",
+        "caption": "Start the weekend with the ultimate feast: Reshmi Malai Boti, Seekh Kababs, Shinwari Mutton Karahi, fresh salads, and piping hot naans!\n\n📍 Zaiqa Lounge & Grill, Karachi\n🛵 Order Now: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      }
+    },
+    {
+      "day": "Saturday",
+      "lunch": {
+        "time": "12:00 PKT",
+        "dish": "Weekend Smash Burger & Pasta Duo",
+        "type": "photo",
+        "target": ["instagram"],
+        "headline": "Saturday Chill Lunch: Gourmet Smash Burger & Alfredo Pasta! 🍔🍝",
+        "deal": "Weekend Duo Deal: Rs. 1,750",
+        "caption": "No cooking on Saturdays! Treat yourself to cheesy prime beef smash burgers and velvety parmesan Alfredo pasta.\n\n📍 Zaiqa Lounge & Grill\n📱 Order Online: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      },
+      "dinner": {
+        "time": "19:30 PKT",
+        "dish": "Live Charcoal BBQ Grill Night",
+        "type": "reel",
+        "target": ["instagram", "tiktok"],
+        "headline": "Live Charcoal Fire & Smoky Sizzlers — Saturday Night Live! 🥩🔥",
+        "deal": "Full BBQ Mix Platter Rs. 2,400",
+        "caption": "Glowing red charcoal, fragrant spices, and the juiciest grilled meats in Karachi. Bring family and friends to Zaiqa Lounge or order right to your doorstep!\n\n📍 Zaiqa Lounge & Grill, Gulistan-e-Johar\n🛵 Delivery: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      }
+    },
+    {
+      "day": "Sunday",
+      "lunch": {
+        "time": "12:00 PKT",
+        "dish": "Sunday Royal Biryani Extravaganza",
+        "type": "photo",
+        "target": ["instagram"],
+        "headline": "Sunday Family Dawaat: The Big Royal Dum Biryani Deg! 🍚",
+        "deal": "Family Pack Rs. 2,200 (Serves 4)",
+        "caption": "Sundays are incomplete without Biryani! Treat the whole family to our grand slow-cooked Royal Dum Biryani.\n\n📍 Zaiqa Lounge & Grill\n📱 Order Online: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      },
+      "dinner": {
+        "time": "19:30 PKT",
+        "dish": "Shinwari Feast + Royal Gulab Jamun Sundae",
+        "type": "reel",
+        "target": ["instagram", "tiktok"],
+        "headline": "Sunday Sweet Ending: Shinwari Karahi & Hot Gulab Jamun Ice Cream! 🍨✨",
+        "deal": "Dinner + Dessert Combo Rs. 2,250",
+        "caption": "End the weekend on a royal note! Authentic Shinwari Mutton Karahi followed by warm golden gulab jamun over velvety vanilla ice cream with pistachios.\n\n📍 Zaiqa Lounge & Grill\n🛵 Order Now: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+      }
+    }
+  ]
+}

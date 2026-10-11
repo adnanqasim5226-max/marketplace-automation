@@ -1,0 +1,16 @@
+{
+  "name": "restaurant-social-scheduler",
+  "version": "1.0.0",
+  "description": "Schedules Zaiqa Lounge & Grill restaurant studio renders to Instagram and TikTok through Buffer, with media hosted on Cloudflare Pages",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node scheduler.mjs check",
+    "channels": "node scheduler.mjs channels",
+    "plan": "node scheduler.mjs run",
+    "schedule": "node scheduler.mjs run --live"
+  }
+}

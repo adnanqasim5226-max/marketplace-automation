@@ -1,0 +1,17 @@
+{
+  "format": "story",
+  "eyebrow": "Rooftop BBQ Night",
+  "headline": "Tender Reshmi Malai Boti that melts in your mouth",
+  "keyPhrase": "melts in your mouth",
+  "points": [
+    "Boneless chicken cubes steeped in heavy cream and mild green spices",
+    "Threaded onto skewers and grilled over slow burning coconut charcoal",
+    "Served sizzling with fresh mint raita and hot tandoori garlic naan"
+  ],
+  "closingLine": "Book your rooftop family table: 03072820877",
+  "hold": {
+    "intro": 3.0,
+    "point": 3.0,
+    "outro": 3.2
+  }
+}

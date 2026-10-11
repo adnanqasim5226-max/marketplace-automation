@@ -1,0 +1,17 @@
+{
+  "format": "story",
+  "eyebrow": "Weekend Platter Deal",
+  "headline": "The Grand Royal Charcoal Sizzler Platter for Four",
+  "keyPhrase": "Charcoal Sizzler Platter",
+  "points": [
+    "4 Seekh Kebabs, 8 Malai Boti cubes and 4 spicy Behari Tikka",
+    "Served with aromatic Basmati Biryani and 4 hot Roghni Naans",
+    "Includes chilled mint zeera raita, fresh salad and cold drinks"
+  ],
+  "closingLine": "Available all weekend at Zaiqa Lounge & Grill.",
+  "hold": {
+    "intro": 3.0,
+    "point": 3.0,
+    "outro": 3.2
+  }
+}

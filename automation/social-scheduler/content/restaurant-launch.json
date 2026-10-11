@@ -1,0 +1,38 @@
+{
+  "utcOffset": "+05:00",
+  "posts": [
+    {
+      "id": "royal-dum-biryani",
+      "at": "2026-10-18 13:00",
+      "kind": "photo",
+      "media": "../../../output/dum-biryani.png",
+      "caption": "../../../output/dum-biryani.caption.md",
+      "to": ["instagram"]
+    },
+    {
+      "id": "shinwari-karahi-sizzler",
+      "at": "2026-10-18 20:00",
+      "kind": "reel",
+      "media": "../../../output/shinwari-karahi.mp4",
+      "caption": "../../../output/shinwari-karahi.caption.md",
+      "to": ["instagram", "tiktok"]
+    },
+    {
+      "id": "reshmi-malai-boti-platter",
+      "at": "2026-10-19 13:30",
+      "kind": "photo",
+      "media": "../../../output/malai-boti.png",
+      "caption": "../../../output/malai-boti.caption.md",
+      "to": ["instagram"]
+    },
+    {
+      "id": "weekend-grand-platter-deal",
+      "at": "2026-10-19 20:30",
+      "kind": "reel",
+      "media": "../../../output/grand-platter.mp4",
+      "caption": "../../../output/grand-platter.caption.md",
+      "to": ["instagram", "tiktok"]
+    }
+  ]
+}
+

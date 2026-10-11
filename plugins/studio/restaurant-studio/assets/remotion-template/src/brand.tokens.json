@@ -1,0 +1,37 @@
+{
+  "_canonical": "The official gourmet palette and typography scale for Zaiqa Lounge & Grill studio. src/theme.ts reads this file, and scripts/sync-brand.mjs mirrors it to shared/brand/tokens.json.",
+  "name": "Zaiqa Amber Charcoal",
+  "colors": {
+    "accent": "#f97316",
+    "accent2": "#f59e0b",
+    "accentDeep": "#c2410c",
+    "bg": "#0c0a09",
+    "bgDeep": "#050404",
+    "surface": "#1c1917",
+    "card": "#292524",
+    "text": "#fafaf9",
+    "textSecondary": "#e7e5e4",
+    "dim": "#a8a29e",
+    "border": "#44403c",
+    "white": "#ffffff"
+  },
+  "gradient": {
+    "brand": "linear-gradient(120deg, #f97316, #f59e0b)",
+    "stops": ["#f97316", "#f59e0b"],
+    "angleDeg": 120
+  },
+  "type": {
+    "family": "Inter",
+    "heading": 800,
+    "semibold": 600,
+    "medium": 500,
+    "body": 400,
+    "letterSpacingHeading": "-0.022em"
+  },
+  "canvas": {
+    "square": { "width": 1080, "height": 1080 },
+    "portrait": { "width": 1080, "height": 1350 },
+    "story": { "width": 1080, "height": 1920 }
+  },
+  "fps": 30
+}

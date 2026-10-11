@@ -1,0 +1,29 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "restaurant-marketplace",
+  "version": "1.0.0",
+  "description": "Adnan Qasim's Restaurant Studio — a Claude Code plugin that renders mouthwatering culinary food cards, menu spotlights, and sizzling video reels scored with music for Zaiqa Lounge & Grill. One brief, three canvases (square, portrait, story), all rendered locally via Remotion.",
+  "owner": {
+    "name": "Adnan Qasim",
+    "email": "adnanqasim5226@gmail.com"
+  },
+  "metadata": {
+    "restaurant": "Zaiqa Lounge & Grill",
+    "contact": "+92 307 2820877",
+    "location": "Gulistan-e-Johar, Block-9, Karachi"
+  },
+  "plugins": [
+    {
+      "name": "restaurant-studio",
+      "source": "./plugins/studio/restaurant-studio",
+      "description": "Render mouthwatering restaurant food cards (dish spotlight, chef special, flash deal, customer review, story announcement) and sizzling video reels with music — warm flame orange on charcoal wood, Inter typography. Ultra-HD stills at 4x, reels at 2x, all local via Remotion.",
+      "category": "content",
+      "tags": ["restaurant", "food", "bbq", "karahi", "biryani", "deals", "reels", "video", "remotion", "buffer"],
+      "version": "1.0.0",
+      "author": {
+        "name": "Adnan Qasim",
+        "email": "adnanqasim5226@gmail.com"
+      }
+    }
+  ]
+}

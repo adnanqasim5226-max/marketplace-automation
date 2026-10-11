@@ -1,0 +1,43 @@
+{
+  "_canonical": "Official profile for Zaiqa Lounge & Grill, owned by Adnan Qasim. Located in Karachi. Only authentic menu specialties, true hours, and verified contact information are recorded here. scripts/sync-brand.mjs mirrors this file to shared/brand/profile.json.",
+  "name": "Zaiqa Lounge & Grill",
+  "initials": "ZL",
+  "handle": "adnan31272026",
+  "owner": "Adnan Qasim",
+  "email": "adnanqasim5226@gmail.com",
+  "phone": "03072820877",
+  "location": "Gulistan-e-Johar, Block-9, Pehlwan Goth, Karachi",
+  "designation": "Karachi • Charcoal BBQ & Dining",
+  "tagline": "Authentic Charcoal BBQ, Shinwari Karahi & Royal Dum Biryani",
+  "bio": "Open-air rooftop & family lounge serving live charcoal barbecue, authentic Peshawari shinwari, and slow-cooked royal dum biryani in Karachi.",
+  "about": "Karachi's premier culinary destination for authentic coal-smoked BBQ, slow-simmered handis, and aromatic saffron dum biryani. Savor freshly butchered 100% Halal meats, crafted daily with whole roasted spices, pure butter, and wood-fired tandoor breads.",
+  "hours": "6:00 PM - 2:00 AM (Monday to Sunday)",
+  "specialties": [
+    "Royal Dum Biryani",
+    "Peshawari Shinwari Karahi",
+    "Reshmi Malai Boti",
+    "Charcoal Sizzler Platter",
+    "Monster BBQ Smash Burger",
+    "Stuffed Cheese Naan"
+  ],
+  "dishes": [
+    "Royal-Dum-Biryani",
+    "Shinwari-Karahi",
+    "Reshmi-Malai-Boti",
+    "Charcoal-BBQ-Platter",
+    "Monster-Smash-Burger",
+    "Mutton-Galawati-Kabab",
+    "Darbari-Chicken-Handi",
+    "Roghni-Naan-Basket"
+  ],
+  "services": ["Dine-In", "Family AC Hall", "Open-Air Rooftop", "Takeaway", "Home Delivery"],
+  "tags": ["Charcoal BBQ", "Shinwari Karahi", "Royal Biryani", "Karachi Food"],
+  "footerRight": "Order: 03072820877",
+  "voice": "Sensory, appetizing, hospitable, and mouthwatering. Highlight aroma, live charcoal smoke, sizzling platters, and authentic spices. Short punchy lines that evoke flavor and hunger.",
+  "socials": {
+    "instagram": "@adnan31272026",
+    "tiktok": "@adnan__5226",
+    "bufferChannelInstagram": "6acb15d4778b240e2fd2d137",
+    "bufferChannelTikTok": "6acb17e7778b240e2fd2dfe2"
+  }
+}
