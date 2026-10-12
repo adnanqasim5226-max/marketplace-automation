@@ -1,0 +1,87 @@
+{
+  "restaurant": "Zaiqa Lounge & Grill",
+  "menuType": "7-Day Weekly Fixed Dishes Menu",
+  "schedulePolicy": "One Week Fixed Schedule (Monday to Sunday)",
+  "website": "https://zaiqa-lounge-restaurant.vercel.app",
+  "phone": "03072820877",
+  "address": "Gulistan-e-Johar, Block-9, Pehlwan Goth, Karachi",
+  "days": [
+    {
+      "day": "Monday",
+      "urdu": "پیر",
+      "specialDish": "Royal Dum Biryani",
+      "price": 650,
+      "deal": "Free Mint Raita & Fresh Salad",
+      "lunchTime": "12:00 PKT",
+      "dinnerTime": "19:30 PKT",
+      "postType": "photo",
+      "caption": "Start your week with Karachi's most fragrant Royal Dum Biryani! Slow cooked on pure charcoal dum for 6 hours.\n\n📍 Zaiqa Lounge & Grill, Karachi\n📱 Order: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+    },
+    {
+      "day": "Tuesday",
+      "urdu": "منگل",
+      "specialDish": "Cheesy Gourmet Smash Burger",
+      "price": 890,
+      "deal": "Served with Golden Crispy Fries",
+      "lunchTime": "12:00 PKT",
+      "dinnerTime": "19:30 PKT",
+      "postType": "photo",
+      "caption": "Burger Tuesday! Double prime beef patties, melted cheddar cheese & secret smoky sauce on toasted brioche.\n\n📍 Zaiqa Lounge & Grill\n📱 Order: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+    },
+    {
+      "day": "Wednesday",
+      "urdu": "بدھ",
+      "specialDish": "Creamy Chicken Alfredo Pasta",
+      "price": 990,
+      "deal": "Includes Toasted Garlic Bread",
+      "lunchTime": "12:00 PKT",
+      "dinnerTime": "19:30 PKT",
+      "postType": "photo",
+      "caption": "Midweek comfort with velvety garlic parmesan Alfredo fettuccine topped with grilled herb chicken breast.\n\n📍 Zaiqa Lounge & Grill\n📱 Order: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+    },
+    {
+      "day": "Thursday",
+      "urdu": "جمعرات",
+      "specialDish": "Grilled Seekh Kababs",
+      "price": 750,
+      "deal": "4 Jumbo Skewers with Mint Chutney & Puri Paratha",
+      "lunchTime": "12:00 PKT",
+      "dinnerTime": "19:30 PKT",
+      "postType": "reel",
+      "caption": "Flame-grilled juicy beef skewers fresh off the charcoal grill with roasted spices and fresh coriander.\n\n📍 Zaiqa Lounge & Grill\n📱 Order: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+    },
+    {
+      "day": "Friday",
+      "urdu": "جمعہ",
+      "specialDish": "Shinwari Mutton Karahi (Juma Special)",
+      "price": 1850,
+      "deal": "Makhan & Tomatoes Special with Roghani Naan",
+      "lunchTime": "12:00 PKT",
+      "dinnerTime": "19:30 PKT",
+      "postType": "reel",
+      "caption": "Juma Mubarak! Celebrate with sizzling Peshawari Shinwari Mutton Karahi cooked in pure butter and ripe tomatoes.\n\n📍 Zaiqa Lounge & Grill\n📱 Order: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+    },
+    {
+      "day": "Saturday",
+      "urdu": "ہفتہ",
+      "specialDish": "Reshmi Malai Boti Platter",
+      "price": 850,
+      "deal": "Melt-in-Mouth Cream Marinated Chicken with Imli Sauce",
+      "lunchTime": "12:00 PKT",
+      "dinnerTime": "19:30 PKT",
+      "postType": "reel",
+      "caption": "Saturday BBQ Night! Tender boneless chicken cubes marinated in heavy cream and mild aromatic spices.\n\n📍 Zaiqa Lounge & Grill\n📱 Order: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+    },
+    {
+      "day": "Sunday",
+      "urdu": "اتوار",
+      "specialDish": "Sunday Royal Dum Biryani Deg",
+      "price": 650,
+      "deal": "Free Shahi Gulab Jamun Sundae on Family Orders",
+      "lunchTime": "12:00 PKT",
+      "dinnerTime": "19:30 PKT",
+      "postType": "photo",
+      "caption": "Sunday Family Dawaat! Celebrate the holiday with Karachi's favorite saffron Royal Dum Biryani and Gulab Jamun dessert.\n\n📍 Zaiqa Lounge & Grill\n📱 Order: https://zaiqa-lounge-restaurant.vercel.app\n📞 03072820877"
+    }
+  ]
+}
